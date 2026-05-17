@@ -9,8 +9,6 @@ Invoke-RestMethod -Uri "https://api.nordvpn.com/v1/servers/recommendations?filte
 
 Country_id=38 
 
-38 is Canada
-228 is USA
-195 is singapore
+38 is Canada - 228 is USA - 195 is singapore - 13 is Australia etc
 
 Run in ISE.
