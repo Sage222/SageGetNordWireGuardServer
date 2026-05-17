@@ -11,5 +11,6 @@ Country_id=38
 
 38 is Canada
 228 is USA
+195 is singapore
 
 Run in ISE.
